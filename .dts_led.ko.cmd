@@ -1,0 +1,1 @@
+cmd_/home/tmh/linux/IMX6ULL/Linux_Drivers/5_dts_led/dts_led.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/tmh/linux/IMX6ULL/Linux_Drivers/5_dts_led/dts_led.ko /home/tmh/linux/IMX6ULL/Linux_Drivers/5_dts_led/dts_led.o /home/tmh/linux/IMX6ULL/Linux_Drivers/5_dts_led/dts_led.mod.o
